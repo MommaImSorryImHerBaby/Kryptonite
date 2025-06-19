@@ -1,4 +1,4 @@
-# Kryptonite
+# Encryptor
 Driver encryptor 4 windows
 # Proof of concept:
 ```py
